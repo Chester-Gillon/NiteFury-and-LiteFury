@@ -1,10 +1,7 @@
 # 
 *.jou
 *.log
-project/.Xil/
-project/project.cache/
-project/project.hw/
-project/project.runs/
-project/project.sim/
+.Xil/
+project/
 
 
